@@ -14,9 +14,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "kartik-v/yii2-krajee-base": "*",
-        "michelf/php-markdown": "*",
-        "michelf/php-smartypants": "*"
+        "codeops/yii2-krajee-base": "*",
+        "codeops/php-markdown": "*",
+        "codeops/php-smartypants": "*"
     },
     "autoload": {
         "psr-4": {
